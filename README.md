@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 
+While I'm still working on this, I've got a self intro here ([franklinchui.github.io](https://franklinchui.github.io)).
 
 <!--
 **FranklinChui/franklinchui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
